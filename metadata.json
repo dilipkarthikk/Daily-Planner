@@ -1,0 +1,6 @@
+{
+  "name": "Student Performance Analytics",
+  "description": "A BCA Data Science analytics dashboard & management portal featuring interactive student performance visualization, SQL-backed REST API, ML predictive insights, and automated academic reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
